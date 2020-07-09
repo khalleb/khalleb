@@ -3,7 +3,7 @@
 
 # Olá, sou Khalleb Ribeiro :chicken:
 
-Full-Stack Developer :man_technologist:
+Full Stack Developer :man_technologist:
 
 
 ## :mailbox_with_no_mail: Contatos 
