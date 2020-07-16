@@ -1,4 +1,4 @@
-# Olá, sou Khalleb Ribeiro :chicken:
+# Khalleb Ribeiro :chicken:
 
 Full Stack Developer :man_technologist:
 
