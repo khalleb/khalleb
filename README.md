@@ -1,4 +1,4 @@
-# Khalleb Ribeiro :chicken:
+# Khalleb Ribeiro
 
 Full Stack Developer :man_technologist:
 
