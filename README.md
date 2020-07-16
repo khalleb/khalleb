@@ -5,28 +5,24 @@ Full Stack Developer :man_technologist:
 ### A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+const khalleb = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Java"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+      mobileApp: ["Android App"],
+      frontEnd: {
+          js: ["ReactJS", "React Native", "VueJS"],
+          css: ["Styled-Components", "Bootstrap", "Bulma"]
+      },
+      backEnd: {
+          js: ["Node", "Express"],
+          java: ["Spring", "Hibernate"]
+      },
+      devOps: ["Docker🐳",  "Nginx"],
+      databases: ["Mongo", "Postgres", "Redis", "SQLite"],
+      misc: ["Firebase", "bash"]
+  }
 ```
 
 ## :mailbox_with_no_mail: Contatos 
